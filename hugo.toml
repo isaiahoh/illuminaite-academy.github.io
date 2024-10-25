@@ -25,7 +25,7 @@ name = "Blog"
 url = "blog"
 weight = 4
 [[menu.nav]]
-name = "Get in touch"
+name = "Contact Us"
 url = "contact"
 weight = 5
 
@@ -64,7 +64,7 @@ title = "Web Design"
 # Navbar Action Button
 [params.navAction]
 status = true
-name = "Get in touch"
+name = "Contact Us"
 url = "contact"
 
 
@@ -72,10 +72,13 @@ url = "contact"
 [params.banner]
 enable = true
 background_image = "images/backgrounds/hero-background.jpg"
-heading = "We’re a Design Studio That Belies In the Great Ideas"
-tagline = "WE WORK HARD, WE PLAY HARD"
-primary_button = "See Our Works"
-primary_button_url = "portfolio"
+heading = "illuminaite academy"
+tagline = """
+> demystifying the world of CS & AI
+<br>> building a network of interdisciplinary <br> students & opportunities
+"""
+primary_button = "See Our Blog"
+primary_button_url = "blog"
 secondary_button = "Connect with Us"
 secondary_button_url = "contact"
 
