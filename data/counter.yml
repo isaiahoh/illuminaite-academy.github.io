@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "impact"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "participants of all ages"
+    number: "300"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "different cities"
+    number: "40"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "countries around the world"
+    number: "10"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "dedicated team members"
+    number: "15"
