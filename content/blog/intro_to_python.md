@@ -2,7 +2,7 @@
 title: "Installing Python"
 date: 2024-10-25 # YYYY-MM-DD
 author: "Your Name Here"
-image: images/blog/doggy.jpg 
+image: images/blog/logo.png
 # Place the image in illuminaite-academy.github.io/static/images/blog
 # then set the image path to images/blog/[YOUR IMAGE FILENAME]
 summary: "A step by step guide to installing Python."

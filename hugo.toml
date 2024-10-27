@@ -32,14 +32,13 @@ weight = 5
 # Site Params
 [params]
 logo = "images/logo.png"
-logo_footer = "images/logo-footer.png"
-favicon_icon = "images/favicon.ico"
-favicon_shortcut_icon = "images/favicon.png"
+logo_footer = "images/logo.png"
+favicon_shortcut_icon = "images/logo.png"
 custom_stylesheets = []                      # [ "scss/my_1.scss", "scss/my_2.scss" ]
 dateFormat = "26 FEB 1994"
 # Meta data
-description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-author = "StaticMania"
+description = "Illuminaite Academy | Demystifying the world of CS & AI"
+author = "Illuminaite Academy"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # We're using formspree.io for form handling, paste your formspree url below
@@ -71,7 +70,6 @@ url = "contact"
 # Banner Section
 [params.banner]
 enable = true
-background_image = "images/backgrounds/hero-background.jpg"
 heading = "illuminaite academy"
 tagline = """
 > demystifying the world of CS & AI
