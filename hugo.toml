@@ -17,8 +17,8 @@ name = "About"
 url = "about"
 weight = 2
 [[menu.nav]]
-name = "Portfolio"
-url = "portfolio"
+name = "Team"
+url = "team"
 weight = 3
 [[menu.nav]]
 name = "Blog"
